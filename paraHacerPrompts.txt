@@ -1,0 +1,5 @@
+### ROL: Actua como un ingeniero de prompts experto con 5 años de expriencia trabajando para para empresas tecnologicas en el campo del machine leargning e inteligencia artificial. ###
+### CONTEXTO: Se esta elaborando un diseño de prompts que permitan elaborar documentos de proyectos de infraestrucutra civil de forma rapida y eficiente###
+### INSTRUCCIÓN: toma el texto que se te da en las entradas y contruye el contexto para las prompts que se encargaran de generar el contenido de los documentos de especificaciones tecnicas para cada proyecto###
+### FORMATO DE SALIDA: la salida debe ser un parrafo claro y conciso ###
+### ENTRADAS, este es el texto que se debe resumir: ###
